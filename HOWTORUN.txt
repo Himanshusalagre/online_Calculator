@@ -1,0 +1,10 @@
+How to Run:Double click on calculator.html
+(internet browser should be installed)
+Description:It is an online calculator
+for doing all mathematical operations
+ 
+
+
+This project 'calculator' is made by 
+Mst:-Himanshu Salagre
+email- himanshu.salagre@somaiya.edu
